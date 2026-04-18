@@ -1,0 +1,7 @@
+{
+  "name": "BreathPulse - Mindful Breathing",
+  "description": "A high-performance, aesthetically pleasing breathing exercise app designed with professional branding (Salbeigrün, Warm Beige) and precise timing for stress relief and focus.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
